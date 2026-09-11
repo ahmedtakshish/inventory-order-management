@@ -112,4 +112,4 @@ Order failed: Not enough stock for Laptop. Available: 8
 ## Author
 
 Takshish Ahmed Zafar
-B.Tech Artificial Intelligence, VIT Bhopalgit add README.md
+B.Tech Artificial Intelligence, VIT Bhopal
