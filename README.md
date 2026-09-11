@@ -49,8 +49,8 @@ No external libraries or dependencies are required — the project only uses the
 
 1. Clone the repository:
    ```
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/ahmedtakshish/inventory-order-management.git
+   cd inventory-order-management
    ```
 2. There is no additional configuration needed — the app runs directly from the source files.
 
@@ -112,4 +112,4 @@ Order failed: Not enough stock for Laptop. Available: 8
 ## Author
 
 Takshish Ahmed Zafar
-B.Tech Artificial Intelligence, VIT Bhopal
+B.Tech Artificial Intelligence, VIT Bhopalgit add README.md
